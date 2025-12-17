@@ -40,3 +40,4 @@ CREATE DATABASE bd_festa;
     ADD id_organizadores INT PRIMARY KEY AUTO_INCREMENT;
     
     SELECT * FROM organizadores;
+	DECR https://app.diagrams.net/
